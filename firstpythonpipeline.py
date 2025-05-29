@@ -1,4 +1,4 @@
-num=15
+num=22
 if num>=18:
     print("Eligible to vote")
 else:
